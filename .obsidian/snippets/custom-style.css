@@ -1,0 +1,71 @@
+/*
+@settings
+name: Custom Korean Theme
+id: custom-korean-theme
+settings:
+  - 
+    id: heading-margins
+    title: "제목 여백"
+    type: heading
+    level: 1
+    collapsed: true
+  - 
+    id: h1-margin-top
+    title: "H1 상단 여백"
+    type: variable-number
+    default: 15
+    min: 0
+    max: 30
+  - 
+    id: h1-margin-bottom
+    title: "H1 하단 여백"
+    type: variable-number
+    default: 15
+    min: 0
+    max: 30
+  - 
+    id: h2-margin-top
+    title: "H2 상단 여백"
+    type: variable-number
+    default: 10
+    min: 0
+    max: 25
+  - 
+    id: h2-margin-bottom
+    title: "H2 하단 여백"
+    type: variable-number
+    default: 10
+    min: 0
+    max: 25
+  - 
+    id: text-styling
+    title: "텍스트 스타일링"
+    type: heading
+    level: 1
+    collapsed: true
+  - 
+    id: bold-color
+    title: "볼드 텍스트 색상"
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: "#dd8d31"
+    default-dark: "#dd8d31"
+  - 
+    id: italic-color
+    title: "이탤릭 텍스트 색상"
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: "#4BACC6"
+    default-dark: "#4BACC6"
+  - 
+    id: highlight-color
+    title: "하이라이트 배경색"
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: "#b35e09"
+    default-dark: "#b35e09"
+
+*/

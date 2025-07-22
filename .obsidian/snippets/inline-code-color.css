@@ -1,0 +1,4 @@
+:not(pre) > code,
+.cm-inline-code {
+    color : rgb(47, 147, 228) !important;
+}

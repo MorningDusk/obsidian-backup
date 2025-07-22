@@ -1,0 +1,21 @@
+{
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "dashboard",
+    "tableStyles",
+    "inline-code-color",
+    "notion-cards",
+    "minimal-cards",
+    "floating-search-bar",
+    "floating-status-bar",
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "showRibbon": true,
+  "theme": "moonstone",
+  "monospaceFontFamily": "D2Coding",
+  "baseFontSizeAction": false,
+  "textFontFamily": "나눔휴먼OTF",
+  "interfaceFontFamily": "나눔휴먼OTF,D2Coding"
+}
